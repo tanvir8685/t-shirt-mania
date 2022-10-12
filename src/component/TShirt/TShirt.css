@@ -1,0 +1,9 @@
+.t-shirt{
+    border: 1px solid hotpink;
+    border-radius: 10px;
+
+}
+.t-shirt img{
+    width: 200px;
+    height: 250px;
+}
